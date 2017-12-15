@@ -10,7 +10,6 @@ import static org.junit.Assert.*;
  */
 public class IntIteratorTest {
 
-
     @Test
     public void testForeach() {
         int[] arr = {1, 2, 3, 4, 5};
